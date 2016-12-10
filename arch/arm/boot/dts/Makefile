@@ -562,6 +562,8 @@ dtb-$(CONFIG_ARCH_SOCFPGA) += \
 	socfpga_arria10_swvp.dtb \
 	socfpga_cyclone5_socdk.dtb \
 	socfpga_cyclone5_de0_sockit.dtb \
+	socfpga_cyclone5_de1_soc-audio.dtb \
+	socfpga_cyclone5_de1_soc-fb.dtb \
 	socfpga_cyclone5_sockit.dtb \
 	socfpga_cyclone5_socrates.dtb \
 	socfpga_cyclone5_trcom.dtb \
